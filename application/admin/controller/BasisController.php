@@ -10,7 +10,7 @@ namespace app\admin\controller;
 
 use think\Controller;
 
-class BaseController extends Controller {
+class BasisController extends Controller {
 
     /**
      * 初始化函数

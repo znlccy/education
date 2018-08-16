@@ -8,6 +8,6 @@
  */
 namespace app\admin\model;
 
-class Role extends BaseModel {
+class Role extends BasisModel {
 
 }

@@ -8,6 +8,6 @@
  */
 namespace app\admin\validate;
 
-class Role extends BaseValidate {
+class Role extends BasisValidate {
 
 }

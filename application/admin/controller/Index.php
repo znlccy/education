@@ -8,12 +8,13 @@
  */
 namespace app\admin\controller;
 
-class Index extends BaseController {
+class Index extends BasisController {
 
     /**
      * 后台管理首页
      */
     public function index() {
+        $this->assign('admin', 'nihao');
         return $this->fetch();
     }
 

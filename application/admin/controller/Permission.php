@@ -8,6 +8,6 @@
  */
 namespace app\admin\controller;
 
-class Permission extends BaseController {
+class Permission extends BasisController {
 
 }
